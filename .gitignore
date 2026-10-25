@@ -1,0 +1,33 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+*.pyc
+
+# Android
+.gradle/
+local.properties
+*.keystore
+*.jks
+
+# iOS/macOS
+.DS_Store
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Web
+.dart_tool/web_plugin_registrant.dart
